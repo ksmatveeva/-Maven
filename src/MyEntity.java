@@ -25,4 +25,3 @@ public class MyEntity {
         this.name = name;
     }
 }
-
